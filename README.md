@@ -4,5 +4,5 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 
 ## Exercises
 
-- [x] Hello World
-- [x] Reverse String
+- [x] [Hello World](hello-world)
+- [x] [Reverse String](reverse-string)
