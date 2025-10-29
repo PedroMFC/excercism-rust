@@ -6,3 +6,5 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 
 - [x] [Hello World](hello-world)
 - [x] [Reverse String](reverse-string)
+- [x] [Gigasecond](gigasecond)
+
