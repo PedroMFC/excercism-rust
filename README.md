@@ -10,6 +10,8 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Clock](clock)
 - [x] [Anagram](anagram)
 - [x] [Space Age](space-age)
+- [x] [Sublist](sublist)
+    
 
 
 
