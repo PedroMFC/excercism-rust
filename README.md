@@ -9,5 +9,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Gigasecond](gigasecond)
 - [x] [Clock](clock)
 - [x] [Anagram](anagram)
+- [x] [Space Age](space-age)
+
 
 
