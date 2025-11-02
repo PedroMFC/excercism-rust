@@ -16,6 +16,8 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Armstrong Number](armstrong-number)
 - [x] [Bottle Song](bottle-song)
 - [x] [Difference of Squares](difference-of-squares)
+- [x] [Grains](grains)
+
 
 
 
