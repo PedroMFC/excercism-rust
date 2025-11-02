@@ -14,6 +14,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Flower Field](flower-field)
 - [x] [Luhn](luhn)
 - [x] [Armstrong Number](armstrong-number)
+- [x] [Bottle Song](bottle-song)
 
 
 
