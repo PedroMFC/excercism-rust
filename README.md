@@ -18,6 +18,8 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Difference of Squares](difference-of-squares)
 - [x] [Grains](grains)
 - [x] [Leap](leap)
+- [x] [Nth Prime](nth-prime)
+
 
 
 
