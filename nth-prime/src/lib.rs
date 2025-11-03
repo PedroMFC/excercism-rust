@@ -1,13 +1,5 @@
 pub fn is_prime(n: u32) -> bool {
-    if n < 2 {
-        return false;
-    }
-    for i in 2..((n as f64).sqrt() + 1.0) as u32 {
-        if n % i == 0 {
-            return false;
-        }
-    }
-    true
+    !(2..(n as f32).sqrt() as u32 + 1).any(|x| n % x == 0)
 }
 
 pub fn nth(n: u32) -> u32 {
