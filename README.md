@@ -21,6 +21,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Nth Prime](nth-prime)
 - [x] [Prime Factors](prime-factors)
 - [x] [Proverb](proverb)
+- [x] [Raindrops](raindrops)
 
 
 
