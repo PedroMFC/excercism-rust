@@ -24,7 +24,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Raindrops](raindrops)
 - [x] [Sum of Multiples](sum-of-multiples)
 - [x] [Bob](bob)
-
+- [x] [High Scores](high-scores)
 
 
 
