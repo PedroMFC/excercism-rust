@@ -29,6 +29,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Collatz Conjecture](collatz-conjecture)
 - [x] [Series](series)
 - [x] [Kindergarten Garden](kindergarten-garden)
+- [x] [Eliuds Eggs](eliuds-eggs)
 
 
 
