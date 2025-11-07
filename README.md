@@ -28,7 +28,7 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Matching Brackets](matching-brackets)
 - [x] [Collatz Conjecture](collatz-conjecture)
 - [x] [Series](series)
-
+- [x] [Kindergarten Garden](kindergarten-garden)
 
 
 
