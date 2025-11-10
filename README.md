@@ -30,6 +30,8 @@ This repository is a collection of exercises I'm doing while learning Rust. Exer
 - [x] [Series](series)
 - [x] [Kindergarten Garden](kindergarten-garden)
 - [x] [Eliuds Eggs](eliuds-eggs)
+- [x] [Acronym](acronym)
+
 
 
 
